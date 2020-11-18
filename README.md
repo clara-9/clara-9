@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋, I'm Clara
 
-<!--
-**clara-9/clara-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a junior software developer and engineering student
 
-Here are some ideas to get you started:
+- Altough I have mainly worked with **Python** before and I work with **Java** now, I'm always looking into new, interesting stuff. 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Java and NLP**. I want to learn some Front-End next (probably React).
+
+- 👩💻 My previous hackathon projects are available on [my Devpost profile](https://devpost.com/crullr99)
+
+- 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/clara-rull/)
+
+- ⚡ Fun fact **I'm brewing my first batch of kombucha**.
