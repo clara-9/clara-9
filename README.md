@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Clara
+### Hi there 👋, I'm Clara
 
 #### I'm a junior software developer and engineering student
 
