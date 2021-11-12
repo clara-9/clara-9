@@ -4,7 +4,7 @@
 
 - Altough I have mainly worked with **Python** before and I work with **Java** now, I'm always looking into new, interesting stuff. 👀
 
-- 🌱 I’m currently learning **Go and ML**. I want to learn some Front-End next (probably React).
+- 🌱 I’m currently learning **Rust** for work and **Non-supervised ML** for my Bachelor Thesis.
 
 - 👩💻 My previous hackathon projects are available on [my Devpost profile](https://devpost.com/crullr99)
 
